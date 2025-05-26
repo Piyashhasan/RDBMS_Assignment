@@ -513,7 +513,3 @@ EXPLAIN ANALYZE SELECT * FROM products WHERE category = 'Electronics';
 ## Contributing
 
 Feel free to submit issues and enhancement requests!
-
-## License
-
-This guide is available under the MIT License.
